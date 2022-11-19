@@ -1,16 +1,11 @@
 <div align="center">
-  <img src="./carolkang-portfolio-logo.png" width="80%" height="80%"/>
+  <img src="./carolkang-portfolio-logo.png" width="100%" height="100%"/>
 </div>
 
 
 &nbsp;
 &nbsp;
 
-# kangcarol
-
-#### I am a software developer, who believes creativity and analytical thinking go hand in hand when solving problems. Through my business operations experience at startups and larger corporations, I’ve managed projects with cross functional teams and stayed attuned to stakeholder and customer priorities. My approach derives from a foundation in the arts, where details, imagination, concept and message matters.
-
-&nbsp;
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kang-carol/" target="_blank" rel="noreferrer">
@@ -26,6 +21,12 @@
     <img src="https://img.shields.io/badge/RESUME-critical?style=for-the-badge&logo=healthiness" alt="CV Badge"/>
   </a>
 </div>
+
+&nbsp;
+
+#### I am a software developer, who believes creativity and analytical thinking go hand in hand when solving problems. Through my business operations experience at startups and larger corporations, I’ve managed projects with cross functional teams and stayed attuned to stakeholder and customer priorities. My approach derives from a foundation in the arts, where details, imagination, concept and message matters.
+
+
 
 &nbsp;
 
@@ -48,11 +49,8 @@
 
 &nbsp;
 
-<!-- ### My Stats -->
-<!-- --- -->
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kangcarol&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangcarol&layout=compact&theme=vision-friendly-dark)](https://github.com/kangcarol/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangcarol&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
