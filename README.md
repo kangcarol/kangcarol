@@ -6,7 +6,7 @@
 
 # kangcarol
 
-### I am a software developer, who believes creativity and analytical thinking go hand in hand when solving problems. Through my business operations experience at startups and larger corporations, I’ve managed projects with cross functional teams and stayed attuned to stakeholder and customer priorities. My approach derives from a foundation in the arts, where details, imagination, concept and message matters.
+#### I am a software developer, who believes creativity and analytical thinking go hand in hand when solving problems. Through my business operations experience at startups and larger corporations, I’ve managed projects with cross functional teams and stayed attuned to stakeholder and customer priorities. My approach derives from a foundation in the arts, where details, imagination, concept and message matters.
 
 &nbsp;
 
@@ -32,7 +32,7 @@
 <!-- &nbsp; -->
 
 
-### ToolBox
+### Skills & ToolBox
 ---
 
 <div>
@@ -46,6 +46,11 @@
 
 &nbsp;
 
-### My Stats
----
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-kangcarol&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- ### My Stats -->
+<!-- --- -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kangcarol&theme=tokyonight_duo)](https://git.io/streak-stats)
+
+&nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-kangcarol)](https://github.com/kangcarol/github-readme-stats)
