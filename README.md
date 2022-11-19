@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="./carolkang.jpeg>" width="30%" height="30%"/>
-  <img src="./carolkang-portfolio-logo.png" width="60%" height="60%"/>
+<div align="left">
+  <img src="./carolkang-portfolio-logo.png" width="70%" height="70%"/>
 </div>
 
 
