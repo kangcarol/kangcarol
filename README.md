@@ -9,7 +9,8 @@
 
 &nbsp;
 
-
+## More Information
+---
 <div id="badges">
   <a href="https://www.linkedin.com/in/kang-carol/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -37,7 +38,6 @@
 
 
 ## Skills & ToolBox
----
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30"height="30"/>&nbsp;
