@@ -49,6 +49,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kangcarol&theme=tokyonight_duo)](https://git.io/streak-stats)
 
-&nbsp;
+<!-- &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangcarol&layout=compact&theme=vision-friendly-dark)](https://github.com/kangcarol/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangcarol&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
