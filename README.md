@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="./carolkang-portfolio-logo.png" width="70%" height="70%"/>
+  <img src="./carolkang-portfolio-logo.png" width="100%" height="100%"/>
 </div>
 
 
